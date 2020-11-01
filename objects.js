@@ -4,6 +4,6 @@ function updatePlaylist (playlist,artistName, songTitle ){
 }
 
 function removeFromPlaylist(playlistObject,artistName) {
-delete.playlist.edsheeran;
+delete.playlist.artistName;
 return playlist
 }
