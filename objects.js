@@ -1,4 +1,4 @@
-var playlist= {edsheeran:"Shape of you", justin timberlake: "mirrors"}
+var playlist = new Object({keys: '0'});
 
 function updatePlaylist (playlist,artistName, songTitle ){
   playlist[artistName]= songTitle
